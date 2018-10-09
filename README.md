@@ -1,4 +1,4 @@
-java -jar Dijkstra-App
+java -jar Dijkstra-App.jar
 
 Enter the name of input file :
 

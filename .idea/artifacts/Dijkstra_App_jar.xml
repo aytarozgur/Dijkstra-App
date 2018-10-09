@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Dijkstra-App:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Dijkstra_App_jar</output-path>
+    <root id="archive" name="Dijkstra-App.jar">
+      <element id="module-output" name="Dijkstra-App" />
+    </root>
+  </artifact>
+</component>
